@@ -15,6 +15,6 @@ config.log
 config.status
 src/.deps/
 src/Makefile
-src/joes-crazy-bankers
+src/joes_crazy_bankers
 src/main.o
 stamp-h1
