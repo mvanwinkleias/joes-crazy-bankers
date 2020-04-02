@@ -10,7 +10,6 @@ a bit of code that links against another library.
 Get started:
 
 ```
-# This was already run for you:
 autoreconf --install
 ```
 
