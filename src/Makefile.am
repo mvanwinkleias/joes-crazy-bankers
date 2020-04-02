@@ -14,7 +14,7 @@ AM_LDFLAGS =
 # This might not be the best way to handle adding these.
 # Quoting these doesn't seem to be a good idea.
 
-# AM_CFLAGS += -pthread
-# AM_LDFLAGS += -lpthread
+AM_CFLAGS += -pthread
+AM_LDFLAGS += -lpthread
 
 
