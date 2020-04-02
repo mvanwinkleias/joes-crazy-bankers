@@ -1,4 +1,11 @@
-# Hello world
+# Joe's Crazy Bankers
+
+Joe Nelson wrote an article about Concurrent Programming:
+
+* https://begriffs.com/posts/2020-03-23-concurrent-programming.html
+
+This was an attempt to learn about automake / autoconf, and packaging
+a bit of code that links against another library.
 
 Get started:
 
